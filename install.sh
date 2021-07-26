@@ -94,10 +94,6 @@ fi
 
 
 
-else
-whiptail --title "ProxyV6" --msgbox "License check failed. Please send an e-mail to info@ofis.link" 8 78
-fi
-
 
 
 if [[ $SetupControl = True ]]
