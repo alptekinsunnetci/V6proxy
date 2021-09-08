@@ -98,9 +98,6 @@ fi
 
 if [[ $SetupControl = True ]]
 then
-#echo $IPv4
-#echo $IPv6Subnet
-#echo $ProxyAdedi
 
 IPv4_Prefix=$IPv4;
 IPv6_Prefix=$IPv6Subnet;
